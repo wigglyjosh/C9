@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+    background-color: slategrey;
+}
+hr{
+    color: #00db00
+}
